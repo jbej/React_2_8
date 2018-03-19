@@ -65,8 +65,3 @@ App = React.createClass({
         );
     }
 });
-
-
-
-
-
